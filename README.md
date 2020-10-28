@@ -23,13 +23,13 @@
   </a>
 </p>
 
-
 <br> 
 
 ## :pushpin: Índice
 
 - [Sobre](#sobre-o-projeto)
 - [Layout](#layout)
+- [Deploy](#deploy)
 - [Como Executar](#executar)
 - [Tecnologias](#tecnologias)
 - [Licença](#licenca)
@@ -49,6 +49,13 @@
 
 <br>
 
+<a id="deploy"></a>
+
+## 🔗 Deploy
+
+[Deploy da Aplicação](https://cloneflix-84c8f4.netlify.app).
+
+<br>
 <a id="layout"></a>
 
 ## 🎨 Layout
