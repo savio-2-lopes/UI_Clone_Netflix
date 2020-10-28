@@ -55,7 +55,7 @@
 
 
 💡 Segue abaixo o link do Deploy da Aplicação
-<br>
+<br><br>
 [Deploy da Aplicação](https://cloneflix-84c8f4.netlify.app).
 
 <br>
