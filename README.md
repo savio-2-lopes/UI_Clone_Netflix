@@ -40,7 +40,6 @@
 
 ## 💻 Sobre o projeto
 
-
 <br>
 
 🚀 **CloneFlix** - é um UI Clone Responsivo da Netflix, desenvolvido com ReactJS e a API TMDB. 
